@@ -1,0 +1,14 @@
+*{
+    background-color: white;
+    font-family: 'Belleza', sans-serif;
+    color: black;
+}
+.fotoperfil {
+    border: double 3px;
+    border-color: black;
+    padding: 3px;
+    float: left;
+}
+.botonmodooscuro {
+    font-family: 'Bebas Neue', cursive;
+}
