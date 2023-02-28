@@ -1,8 +1,4 @@
-*{
-    background-color: white;
-    font-family: 'Belleza', sans-serif;
-    color: black;
-}
+
 .fotoperfil {
     margin-top: 10px;
     border: double 3px;
@@ -32,7 +28,4 @@
 }
 .barra1 {
     background-color: gray;
-}
-.info2 {
-    float: left;
 }
