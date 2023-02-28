@@ -1,4 +1,9 @@
-
+body {
+    font-family: 'Belleza', sans-serif;
+}
+.seccioner {
+    float: right;
+}
 .fotoperfil {
     margin-top: 10px;
     border: double 3px;
