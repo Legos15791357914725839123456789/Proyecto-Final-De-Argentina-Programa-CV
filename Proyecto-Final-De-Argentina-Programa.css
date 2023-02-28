@@ -1,3 +1,15 @@
+.botonmodoclaro {
+    font-size: medium;
+    border-color: rgb(0, 255, 179);
+    font-family: 'Bebas Neue', cursive;
+    float: right;
+    color: rgb(0, 255, 179);
+    background-color: grey;
+    height: 40px;
+}
+.espacio {
+    float: right;
+}
 body {
     font-family: 'Belleza', sans-serif;
 }
@@ -7,7 +19,7 @@ body {
 .fotoperfil {
     margin-top: 10px;
     border: double 3px;
-    border-color: black;
+    border-color: currentColor;
     padding: 3px;
 }
 .botonmodooscuro {
@@ -33,4 +45,8 @@ body {
 }
 .barra1 {
     background-color: gray;
+}
+.barra2 {
+    border: solid currentColor;
+    float: right;   
 }
